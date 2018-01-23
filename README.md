@@ -1,8 +1,8 @@
 # Admin-on-rest Demo
 
-This is a demo of the [mini-drawer](https://material-ui-next.com/demos/drawers/) for React.js. It creates a working drawer menu for websites. You can test it online at https://material-ui-next.com/demos/drawers/.
+This is a demo of the [mini-drawer](https://material-ui-next.com/demos/drawers/) for React.js. It creates a working drawer menu for websites. You can test it online at https://friendly-goldberg-5bc3fa.netlify.com/.
 
-To explore the source code, start with [src/index.js](https://github.com/marmelab/admin-on-rest-demo/blob/master/src/index.js).
+To explore the source code, start with [src/App.js](https://github.com/ayushikhetan/customisedDrawer/blob/master/src/App.js).
 
 ## Available Scripts
 
