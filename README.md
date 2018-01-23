@@ -1,4 +1,4 @@
-# Admin-on-rest Demo
+# Drawer Menu Demo
 
 This is a demo of the [mini-drawer](https://material-ui-next.com/demos/drawers/) for React.js. It creates a working drawer menu for websites. You can test it online at https://friendly-goldberg-5bc3fa.netlify.com/.
 
